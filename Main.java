@@ -3,5 +3,6 @@ public class Main{
   {
     System.out.println("Hello worlds");
     System.out.println("test");
+    System.out.printlnz("ha");
   }
 }
